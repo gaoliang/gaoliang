@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👨🏽‍💻Tech Stack
-
-<p>
-Here are a few things I've picked up along my learning journey.
-</p>
-
-- 🗣 Java 𒑰 Python 𒑰 JavaScript 𒑰 Vue.js
-- 🌱 Docker 𒑰 Jenkins
-- 🎒 BPMN 𒑰 Flowable
-
-
 
 ### 🚧Current Projects
 
