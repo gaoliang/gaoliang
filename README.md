@@ -16,3 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👨🏽‍💻Tech Stack
+
+<p>
+Here are a few things I've picked up along my learning journey.
+</p>
+
+- 🗣 Java 𒑰 Python 𒑰 JavaScript 𒑰 Vue.js
+- 🌱 Docker 𒑰 Jenkins
+- 🎒 BPMN 𒑰 Flowable
+
+
+
+### 🚧Current Projects
+
+Check out what I'm currently involved in.
+
+- [Environment Indicator](https://github.com/gaoliang/env-indicator) | Add an environment marker to differentiate QA environments from production
+
+- [tmlpy](https://github.com/gaoliang/tmlpy) | Python implementation of Terminal Markup Language (tml)
+
+- [k-form-design](https://github.com/Kchengz/k-form-design) | Form builder using ant-design-vue
+
+- [gridea](https://github.com/getgridea/gridea) | A static blog writing client
