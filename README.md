@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🚧Current Projects
 
 Check out what I'm currently involved in.
-
+- [Visual ZooKeeper](https://github.com/gaoliang/visual-zookeeper) | Visually manage your ZooKeeper in Visual Studio Code.
 - [Environment Indicator](https://github.com/gaoliang/env-indicator) | Add an environment marker to differentiate QA environments from production
 
 - [Tab Tree](https://github.com/gaoliang/tab-tree) | A tree view of your browser tabs.
