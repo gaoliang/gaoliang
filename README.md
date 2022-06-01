@@ -1,4 +1,4 @@
-### Hello friend <img src="https://github.com/gaoliang/gaoliang/blob/master/Hi.gif" width="25px">, I'm Gao Liang! 
+### Hello friend 👋, I'm Gao Liang! 
 
 ![gaoliang's github stats](https://github-readme-stats.vercel.app/api?username=gaoliang)
 
